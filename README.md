@@ -1,5 +1,7 @@
 # FIFA Worldcup 2018 - json data
 
+[![Build Status](https://travis-ci.org/lsv/fifa-worldcup-2018.svg?branch=master)](https://travis-ci.org/lsv/fifa-worldcup-2018)
+
 ## Data explanation
 
 ### Match types
