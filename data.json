@@ -2,51 +2,63 @@
   "stadiums": [
     {
       "id": 1,
-      "name": "Luzhniki Stadium"
+      "name": "Luzhniki Stadium",
+      "city": "Moscow"
     },
     {
       "id": 2,
-      "name": "Otkrytiye Arena"
+      "name": "Otkrytiye Arena",
+      "city": "Moscow"
     },
     {
       "id": 3,
-      "name": "Krestovsky Stadium"
+      "name": "Krestovsky Stadium",
+      "city": "Saint Petersburg"
     },
     {
       "id": 4,
-      "name": "Kaliningrad Stadium"
+      "name": "Kaliningrad Stadium",
+      "city": "Kaliningrad"
     },
     {
       "id": 5,
-      "name": "Kazan Arena"
+      "name": "Kazan Arena",
+      "city": "Kazan"
     },
     {
       "id": 6,
-      "name": "Nizhny Novgorod Stadium"
+      "name": "Nizhny Novgorod Stadium",
+      "city": "Nizhny Novgorod"
     },
     {
       "id": 7,
-      "name": "Cosmos Arena"
+      "name": "Cosmos Arena",
+      "city": "Samara"
     },
     {
       "id": 8,
-      "name": "Volgograd Arena"
+      "name": "Volgograd Arena",
+      "city": "Volgograd"
     },
     {
       "id": 9,
-      "name": "Mordovia Arena"
+      "name": "Mordovia Arena",
+      "city": "Saransk"
     },
     {
       "id": 10,
-      "name": "Rostov Arena"
+      "name": "Rostov Arena",
+      "city": "Rostov-on-Don"
     },
     {
       "id": 11,
-      "name": "Fisht Olympic Stadium"
+      "name": "Fisht Olympic Stadium",
+      "city": "Sochi"
     },
     {
       "id": 12,
-      "name": "Central Stadium"
+      "name": "Central Stadium",
+      "city": "Yekaterinburg"
     }
   ],
   "tvchannels": [
@@ -235,7 +247,8 @@
           "away_result": null,
           "date": "2018-06-14T18:00:00+03:00",
           "stadium": 1,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 2,
@@ -246,7 +259,8 @@
           "away_result": null,
           "date": "2018-06-15T17:00:00+05:00",
           "stadium": 12,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 17,
@@ -257,7 +271,8 @@
           "away_result": null,
           "date": "2018-06-19T21:00:00+03:00",
           "stadium": 3,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 18,
@@ -268,7 +283,8 @@
           "away_result": null,
           "date": "2018-06-20T18:00:00+03:00",
           "stadium": 10,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 33,
@@ -279,7 +295,8 @@
           "away_result": null,
           "date": "2018-06-25T18:00:00+04:00",
           "stadium": 7,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 34,
@@ -290,7 +307,8 @@
           "away_result": null,
           "date": "2018-06-25T17:00:00+03:00",
           "stadium": 8,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -305,7 +323,8 @@
           "away_result": null,
           "date": "2018-06-15T21:00:00+03:00",
           "stadium": 11,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 4,
@@ -316,7 +335,8 @@
           "away_result": null,
           "date": "2018-06-15T18:00:00+03:00",
           "stadium": 3,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 19,
@@ -327,7 +347,8 @@
           "away_result": null,
           "date": "2018-06-20T15:00:00+03:00",
           "stadium": 1,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 20,
@@ -338,7 +359,8 @@
           "away_result": null,
           "date": "2018-06-20T21:00:00+03:00",
           "stadium": 5,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 35,
@@ -349,7 +371,8 @@
           "away_result": null,
           "date": "2018-06-25T21:00:00+03:00",
           "stadium": 9,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 36,
@@ -360,7 +383,8 @@
           "away_result": null,
           "date": "2018-06-25T20:00:00+02:00",
           "stadium": 4,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -375,7 +399,8 @@
           "away_result": null,
           "date": "2018-06-16T13:00:00+03:00",
           "stadium": 5,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 6,
@@ -386,7 +411,8 @@
           "away_result": null,
           "date": "2018-06-16T19:00:00+03:00",
           "stadium": 9,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 21,
@@ -397,7 +423,8 @@
           "away_result": null,
           "date": "2018-06-21T20:00:00+05:00",
           "stadium": 12,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 22,
@@ -408,7 +435,8 @@
           "away_result": null,
           "date": "2018-06-21T16:00:00+04:00",
           "stadium": 7,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 37,
@@ -419,7 +447,8 @@
           "away_result": null,
           "date": "2018-06-26T17:00:00+03:00",
           "stadium": 1,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 38,
@@ -430,7 +459,8 @@
           "away_result": null,
           "date": "2018-06-26T17:00:00+02:00",
           "stadium": 11,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -445,7 +475,8 @@
           "away_result": null,
           "date": "2018-06-16T16:00:00+03:00",
           "stadium": 2,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 8,
@@ -456,7 +487,8 @@
           "away_result": null,
           "date": "2018-06-16T21:00:00+02:00",
           "stadium": 4,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 23,
@@ -467,7 +499,8 @@
           "away_result": null,
           "date": "2018-06-21T21:00:00+03:00",
           "stadium": 6,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 24,
@@ -478,7 +511,8 @@
           "away_result": null,
           "date": "2018-06-22T18:00:00+03:00",
           "stadium": 8,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 39,
@@ -489,7 +523,8 @@
           "away_result": null,
           "date": "2018-06-26T21:00:00+03:00",
           "stadium": 3,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 40,
@@ -500,7 +535,8 @@
           "away_result": null,
           "date": "2018-06-26T21:00:00+03:00",
           "stadium": 10,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -515,7 +551,8 @@
           "away_result": null,
           "date": "2018-06-17T21:00:00+03:00",
           "stadium": 10,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 10,
@@ -526,7 +563,8 @@
           "away_result": null,
           "date": "2018-06-17T16:00:00+04:00",
           "stadium": 7,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 25,
@@ -537,7 +575,8 @@
           "away_result": null,
           "date": "2018-06-22T15:00:00+03:00",
           "stadium": 3,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 26,
@@ -548,7 +587,8 @@
           "away_result": null,
           "date": "2018-06-22T20:00:00+02:00",
           "stadium": 4,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 41,
@@ -559,7 +599,8 @@
           "away_result": null,
           "date": "2018-06-27T21:00:00+03:00",
           "stadium": 2,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 42,
@@ -570,7 +611,8 @@
           "away_result": null,
           "date": "2018-06-27T21:00:00+03:00",
           "stadium": 6,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -585,7 +627,8 @@
           "away_result": null,
           "date": "2018-06-17T18:00:00+03:00",
           "stadium": 1,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 12,
@@ -596,7 +639,8 @@
           "away_result": null,
           "date": "2018-06-18T15:00:00+03:00",
           "stadium": 6,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 27,
@@ -607,7 +651,8 @@
           "away_result": null,
           "date": "2018-06-23T21:00:00+03:00",
           "stadium": 11,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 28,
@@ -618,7 +663,8 @@
           "away_result": null,
           "date": "2018-06-23T18:00:00+03:00",
           "stadium": 10,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 43,
@@ -629,7 +675,8 @@
           "away_result": null,
           "date": "2018-06-27T17:00:00+03:00",
           "stadium": 5,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 44,
@@ -640,7 +687,8 @@
           "away_result": null,
           "date": "2018-06-27T19:00:00+05:00",
           "stadium": 12,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -655,7 +703,8 @@
           "away_result": null,
           "date": "2018-06-18T18:00:00+03:00",
           "stadium": 11,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 14,
@@ -666,7 +715,8 @@
           "away_result": null,
           "date": "2018-06-18T21:00:00+03:00",
           "stadium": 8,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 29,
@@ -677,7 +727,8 @@
           "away_result": null,
           "date": "2018-06-23T15:00:00+03:00",
           "stadium": 2,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 30,
@@ -688,7 +739,8 @@
           "away_result": null,
           "date": "2018-06-24T15:00:00+03:00",
           "stadium": 6,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 45,
@@ -699,7 +751,8 @@
           "away_result": null,
           "date": "2018-06-28T20:00:00+02:00",
           "stadium": 4,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 46,
@@ -710,7 +763,8 @@
           "away_result": null,
           "date": "2018-06-28T21:00:00+03:00",
           "stadium": 9,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -725,7 +779,8 @@
           "away_result": null,
           "date": "2018-06-19T18:00:00+03:00",
           "stadium": 2,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 16,
@@ -736,7 +791,8 @@
           "away_result": null,
           "date": "2018-06-19T15:00:00+03:00",
           "stadium": 9,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 31,
@@ -747,7 +803,8 @@
           "away_result": null,
           "date": "2018-06-24T20:00:00+05:00",
           "stadium": 5,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 32,
@@ -758,7 +815,8 @@
           "away_result": null,
           "date": "2018-06-24T21:00:00+03:00",
           "stadium": 12,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 47,
@@ -769,7 +827,8 @@
           "away_result": null,
           "date": "2018-06-28T17:00:00+03:00",
           "stadium": 8,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 48,
@@ -780,7 +839,8 @@
           "away_result": null,
           "date": "2018-06-28T18:00:00+04:00",
           "stadium": 7,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     }
@@ -798,7 +858,8 @@
           "away_result": null,
           "date": "2018-06-30T17:00:00+03:00",
           "stadium": 11,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 50,
@@ -809,7 +870,8 @@
           "away_result": null,
           "date": "2018-06-30T21:00:00+03:00",
           "stadium": 5,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 51,
@@ -820,7 +882,8 @@
           "away_result": null,
           "date": "2018-07-01T17:00:00+03:00",
           "stadium": 1,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 52,
@@ -831,7 +894,8 @@
           "away_result": null,
           "date": "2018-07-01T21:00:00+03:00",
           "stadium": 6,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 53,
@@ -842,7 +906,8 @@
           "away_result": null,
           "date": "2018-07-02T18:00:00+04:00",
           "stadium": 7,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 54,
@@ -853,7 +918,8 @@
           "away_result": null,
           "date": "2018-07-02T21:00:00+03:00",
           "stadium": 10,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 55,
@@ -864,7 +930,8 @@
           "away_result": null,
           "date": "2018-07-03T17:00:00+03:00",
           "stadium": 3,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 56,
@@ -875,7 +942,8 @@
           "away_result": null,
           "date": "2018-07-03T21:00:00+03:00",
           "stadium": 2,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -891,7 +959,8 @@
           "away_result": null,
           "date": "2018-07-06T17:00:00+03:00",
           "stadium": 6,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 58,
@@ -902,7 +971,8 @@
           "away_result": null,
           "date": "2018-07-06T21:00:00+03:00",
           "stadium": 5,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 59,
@@ -913,7 +983,8 @@
           "away_result": null,
           "date": "2018-07-07T21:00:00+03:00",
           "stadium": 11,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 60,
@@ -924,7 +995,8 @@
           "away_result": null,
           "date": "2018-07-07T18:00:00+04:00",
           "stadium": 7,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -940,7 +1012,8 @@
           "away_result": null,
           "date": "2018-07-10T21:00:00+03:00",
           "stadium": 3,
-          "channels": []
+          "channels": [],
+          "finished": false
         },
         {
           "name": 62,
@@ -951,7 +1024,8 @@
           "away_result": null,
           "date": "2018-07-11T21:00:00+03:00",
           "stadium": 1,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -967,7 +1041,8 @@
           "away_result": null,
           "date": "2018-07-14T17:00:00+03:00",
           "stadium": 3,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     },
@@ -983,7 +1058,8 @@
           "away_result": null,
           "date": "2018-07-15T18:00:00+03:00",
           "stadium": 1,
-          "channels": []
+          "channels": [],
+          "finished": false
         }
       ]
     }
