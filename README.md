@@ -32,8 +32,13 @@ Eg: `home_team = 62` means the losing team from match 62 will be the `home_team`
 
 Each match has a array of channels. The tv channels will be defined in the json file aswell. 
 
+## Frontend
+
+Not very nice, but works - and you can try to see what happens with your expected results
+
+https://github.com/lsv/fifa-worldcup-2018-jsfrontend
+https://worldcup.aarhof.eu/#/
+
 ## Todo
 
-- A nice frontend :)
-- More stadium info
-- More TV channels(?)
+- More TV channels(?) - Need help from anywhere on the world :)
