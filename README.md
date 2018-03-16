@@ -28,7 +28,7 @@ The opposite of the winner key (Only used for 3rd place play-off)
 
 Eg: `home_team = 62` means the losing team from match 62 will be the `home_team`
 
-### TV Channels
+#### TV Channels
 
 Each match has a array of channels. The tv channels will be defined in the json file aswell. 
 
@@ -37,6 +37,7 @@ Each match has a array of channels. The tv channels will be defined in the json 
 Not very nice, but works - and you can try to see what happens with your expected results
 
 https://github.com/lsv/fifa-worldcup-2018-jsfrontend
+
 https://worldcup.aarhof.eu/#/
 
 ## Todo
