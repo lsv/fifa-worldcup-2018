@@ -30,7 +30,43 @@ Eg: `home_team = 62` means the losing team from match 62 will be the `home_team`
 
 #### TV Channels
 
-Each match has a array of channels. The tv channels will be defined in the json file aswell. 
+Each match has a array of channels. The tv channels will be defined in the json file aswell.
+
+#### Knockout matches
+
+Knockout matches can not end in a draw, so therefor a knockout match have the following
+
+```
+"home_result": null,
+"away_result": null,
+"home_penalty": null,
+"away_penalty": null,
+"winner": null,
+```
+
+When a match is completed it will look like this
+
+```
+"home_result": 0,
+"away_result": 1,
+"home_penalty": null,
+"away_penalty": null,
+"winner": "away",
+```
+
+The `"winner"` field will have either `"away"` or `"home"`.
+
+If a team wins after overtime, the result will be the same as above.
+
+If a knockout match goes to penalty the result will be 
+
+```
+"home_result": 1,
+"away_result": 1,
+"home_penalty": 5,
+"away_penalty": 4,
+"winner": "home",
+```
 
 ## Frontend
 
