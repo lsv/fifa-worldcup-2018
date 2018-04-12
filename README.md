@@ -2,6 +2,16 @@
 
 [![Build Status](https://travis-ci.org/lsv/fifa-worldcup-2018.svg?branch=master)](https://travis-ci.org/lsv/fifa-worldcup-2018)
 
+## Usage
+
+To use the data in your app, you can use this link
+
+`
+https://raw.githubusercontent.com/lsv/fifa-worldcup-2018/master/data.json
+`
+
+Which will be updated
+
 ## Data explanation
 
 ### Match types
