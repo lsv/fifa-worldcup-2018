@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "test": "node_modules/.bin/jsonlint data.json -q"
+    "test": "node_modules/.bin/jsonlint data.json -q & node test/index.js"
   },
   "devDependencies": {
-    "jsonlint": "^1.6.2"
+    "jsonlint": "^1.6.2",
+    "jsonschema": "^1.2.4",
+    "moment": "^2.22.0"
   }
 }

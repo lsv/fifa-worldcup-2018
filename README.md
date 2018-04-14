@@ -20,6 +20,7 @@ Which will be updated
 
 Means its a regular group match
 
+
 #### qualified
 
 Means it should look at the `home_team` and `away_team` fields where the code will be either `winner_X` or `runner_X` where `X` = the group key.
