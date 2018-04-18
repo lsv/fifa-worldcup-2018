@@ -2,6 +2,9 @@ const properties = {
     "id": "number",
     "name": "string",
     "icon": "string",
+    "country": "string",
+    "iso2": "string",
+    "lang": "string"
 };
 
 module.exports = function(data, errors) {
