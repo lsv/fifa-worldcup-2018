@@ -92,7 +92,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/8/88/DR1_logo_2013.svg",
       "country": "Denmark",
       "iso2": "dk",
-      "lang": "dk"
+      "lang": ["da"]
     },
     {
       "id": 2,
@@ -100,7 +100,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Danish_TV_2_logo.png",
       "country": "Denmark",
       "iso2": "dk",
-      "lang": "dk"
+      "lang": ["da"]
     },
     {
       "id": 3,
@@ -108,7 +108,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BBC.svg",
       "country": "UK",
       "iso2": "en",
-      "lang": "en"
+      "lang": ["en"]
     },
     {
       "id": 4,
@@ -116,7 +116,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/en/9/92/ITV_logo_2013.svg",
       "country": "UK",
       "iso2": "en",
-      "lang": "en"
+      "lang": ["en"]
     },
     {
       "id": 5,
@@ -124,7 +124,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/en/9/92/ITV_logo_2013.svg",
       "country": "UK",
       "iso2": "en",
-      "lang": "en"
+      "lang": ["en"]
     },
     {
       "id": 6,
@@ -132,7 +132,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logotipo_de_Cuatro.svg",
       "country": "Spain",
       "iso2": "es",
-      "lang": "es"
+      "lang": ["es"]
     },
     {
       "id": 7,
@@ -140,7 +140,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png",
       "country": "Spain",
       "iso2": "es",
-      "lang": "es"
+      "lang": ["es"]
     }
   ],
   "teams": [
