@@ -1043,8 +1043,8 @@
         {
           "name": 56,
           "type": "qualified",
-          "home_team": "winner_f",
-          "away_team": "runner_e",
+          "home_team": "winner_h",
+          "away_team": "runner_g",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
