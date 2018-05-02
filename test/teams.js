@@ -3,6 +3,8 @@ const properties = {
     "id": "number",
     "name": "string",
     "iso2": "string",
+    "flag": "string",
+    "emoji": "string"
 };
 
 module.exports = function (data, errors) {
