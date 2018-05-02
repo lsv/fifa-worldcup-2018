@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/lsv/fifa-worldcup-2018.svg?branch=master)](https://travis-ci.org/lsv/fifa-worldcup-2018)
 
+__The data file will be updated within a hour after a match is over__
+
+__Im investigating if I can find a source for doing this automatically and also provice live score__
+
 ## Usage
 
 To use the data in your app, you can use this link
