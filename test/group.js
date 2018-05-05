@@ -36,7 +36,8 @@ function validateGroup(groupname, group, errors) {
         "date": "datetime",
         "stadium": "number",
         "channels": "array",
-        "finished": "boolean"
+        "finished": "boolean",
+        "matchday": "number",
     };
     checker(group, errors, 'matches', 6, `Group ${groupname} - Matches`, properties);
 }

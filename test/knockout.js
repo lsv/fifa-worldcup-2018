@@ -12,7 +12,8 @@ const matchproperties = {
     "date": "datetime",
     "stadium": "number",
     "channels": "array",
-    "finished": "boolean"
+    "finished": "boolean",
+    "matchday": "number",
 };
 
 function validateKnockoutnames(knockouts, errors) {
