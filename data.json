@@ -339,6 +339,7 @@
   ],
   "groups": {
     "a": {
+      "name": "Group A",
       "winner": null,
       "runnerup": null,
       "matches": [
@@ -417,6 +418,7 @@
       ]
     },
     "b": {
+      "name": "Group B",
       "winner": null,
       "runnerup": null,
       "matches": [
@@ -495,6 +497,7 @@
       ]
     },
     "c": {
+      "name": "Group C",
       "winner": null,
       "runnerup": null,
       "matches": [
@@ -573,6 +576,7 @@
       ]
     },
     "d": {
+      "name": "Group D",
       "winner": null,
       "runnerup": null,
       "matches": [
@@ -651,6 +655,7 @@
       ]
     },
     "e": {
+      "name": "Group E",
       "winner": null,
       "runnerup": null,
       "matches": [
@@ -729,6 +734,7 @@
       ]
     },
     "f": {
+      "name": "Group F",
       "winner": null,
       "runnerup": null,
       "matches": [
@@ -807,6 +813,7 @@
       ]
     },
     "g": {
+      "name": "Group G",
       "winner": null,
       "runnerup": null,
       "matches": [
@@ -885,6 +892,7 @@
       ]
     },
     "h": {
+      "name": "Group H",
       "winner": null,
       "runnerup": null,
       "matches": [
