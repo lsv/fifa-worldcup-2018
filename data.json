@@ -150,7 +150,8 @@
       "fifaCode": "RUS",
       "iso2": "ru",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/900px-Flag_of_Russia.png",
-      "emoji": "flag-ru"
+      "emoji": "flag-ru",
+      "emojiString": "🇷🇺"
     },
     {
       "id": 2,
@@ -158,7 +159,8 @@
       "fifaCode": "KSA",
       "iso2": "sa",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/750px-Flag_of_Saudi_Arabia.png",
-      "emoji": "flag-sa"
+      "emoji": "flag-sa",
+      "emojiString": "🇸🇦"
     },
     {
       "id": 3,
@@ -166,7 +168,8 @@
       "fifaCode": "EGY",
       "iso2": "eg",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/900px-Flag_of_Egypt.png",
-      "emoji": "flag-eg"
+      "emoji": "flag-eg",
+      "emojiString": "🇪🇬"
     },
     {
       "id": 4,
@@ -174,7 +177,8 @@
       "fifaCode": "URU",
       "iso2": "uy",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png",
-      "emoji": "flag-uy"
+      "emoji": "flag-uy",
+      "emojiString": "🇺🇾"
     },
     {
       "id": 5,
@@ -182,7 +186,8 @@
       "fifaCode": "POR",
       "iso2": "pt",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png",
-      "emoji": "flag-pt"
+      "emoji": "flag-pt",
+      "emojiString": "🇵🇹"
     },
     {
       "id": 6,
@@ -190,7 +195,8 @@
       "fifaCode": "ESP",
       "iso2": "es",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png",
-      "emoji": "flag-es"
+      "emoji": "flag-es",
+      "emojiString": "🇪🇸"
     },
     {
       "id": 7,
@@ -198,7 +204,8 @@
       "fifaCode": "MAR",
       "iso2": "ma",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.png",
-      "emoji": "flag-ma"
+      "emoji": "flag-ma",
+      "emojiString": "🇲🇦"
     },
     {
       "id": 8,
@@ -206,7 +213,8 @@
       "fifaCode": "IRN",
       "iso2": "ir",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/630px-Flag_of_Iran.png",
-      "emoji": "flag-ir"
+      "emoji": "flag-ir",
+      "emojiString": "🇮🇷"
     },
     {
       "id": 9,
@@ -214,7 +222,8 @@
       "fifaCode": "FRA",
       "iso2": "fr",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/900px-Flag_of_France.png",
-      "emoji": "flag-fr"
+      "emoji": "flag-fr",
+      "emojiString": "🇫🇷"
     },
     {
       "id": 10,
@@ -222,7 +231,8 @@
       "fifaCode": "AUS",
       "iso2": "au",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.png",
-      "emoji": "flag-au"
+      "emoji": "flag-au",
+      "emojiString": "🇦🇺"
     },
     {
       "id": 11,
@@ -230,7 +240,8 @@
       "fifaCode": "PER",
       "iso2": "pe",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/900px-Flag_of_Peru_%28state%29.png",
-      "emoji": "flag-pe"
+      "emoji": "flag-pe",
+      "emojiString": "🇵🇪"
     },
     {
       "id": 12,
@@ -238,7 +249,8 @@
       "fifaCode": "DEN",
       "iso2": "dk",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/740px-Flag_of_Denmark.png",
-      "emoji": "flag-dk"
+      "emoji": "flag-dk",
+      "emojiString": "🇩🇰"
     },
     {
       "id": 13,
@@ -246,7 +258,8 @@
       "fifaCode": "ARG",
       "iso2": "ar",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png",
-      "emoji": "flag-ar"
+      "emoji": "flag-ar",
+      "emojiString": "🇦🇷"
     },
     {
       "id": 14,
@@ -254,7 +267,8 @@
       "fifaCode": "ISL",
       "iso2": "is",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.png",
-      "emoji": "flag-is"
+      "emoji": "flag-is",
+      "emojiString": "🇮🇸"
     },
     {
       "id": 15,
@@ -262,7 +276,8 @@
       "fifaCode": "CRO",
       "iso2": "hr",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.png",
-      "emoji": "flag-hr"
+      "emoji": "flag-hr",
+      "emojiString": "🇭🇷"
     },
     {
       "id": 16,
@@ -270,7 +285,8 @@
       "fifaCode": "NGA",
       "iso2": "ng",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/800px-Flag_of_Nigeria.png",
-      "emoji": "flag-ng"
+      "emoji": "flag-ng",
+      "emojiString": "🇳🇬"
     },
     {
       "id": 17,
@@ -278,7 +294,8 @@
       "fifaCode": "BRA",
       "iso2": "br",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.png",
-      "emoji": "flag-br"
+      "emoji": "flag-br",
+      "emojiString": "🇧🇷"
     },
     {
       "id": 18,
@@ -286,7 +303,8 @@
       "fifaCode": "SUI",
       "iso2": "ch",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/320px-Flag_of_Switzerland_%28Pantone%29.png",
-      "emoji": "flag-ch"
+      "emoji": "flag-ch",
+      "emojiString": "🇨🇭"
     },
     {
       "id": 19,
@@ -294,7 +312,8 @@
       "fifaCode": "CRC",
       "iso2": "cr",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/833px-Flag_of_Costa_Rica_%28state%29.png",
-      "emoji": "flag-cr"
+      "emoji": "flag-cr",
+      "emojiString": "🇨🇷"
     },
     {
       "id": 20,
@@ -302,7 +321,8 @@
       "fifaCode": "SRB",
       "iso2": "rs",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png",
-      "emoji": "flag-rs"
+      "emoji": "flag-rs",
+      "emojiString": "🇷🇸"
     },
     {
       "id": 21,
@@ -310,7 +330,8 @@
       "fifaCode": "GER",
       "iso2": "de",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png",
-      "emoji": "flag-de"
+      "emoji": "flag-de",
+      "emojiString": "🇩🇪"
     },
     {
       "id": 22,
@@ -318,7 +339,8 @@
       "fifaCode": "MEX",
       "iso2": "mx",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.png",
-      "emoji": "flag-mx"
+      "emoji": "flag-mx",
+      "emojiString": "🇲🇽"
     },
     {
       "id": 23,
@@ -326,7 +348,8 @@
       "fifaCode": "SWE",
       "iso2": "se",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1600px-Flag_of_Sweden.png",
-      "emoji": "flag-se"
+      "emoji": "flag-se",
+      "emojiString": "🇸🇪"
     },
     {
       "id": 24,
@@ -334,7 +357,8 @@
       "fifaCode": "KOR",
       "iso2": "kr",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/900px-Flag_of_South_Korea.png",
-      "emoji": "flag-kr"
+      "emoji": "flag-kr",
+      "emojiString": "🇰🇷"
     },
     {
       "id": 25,
@@ -342,7 +366,8 @@
       "fifaCode": "BEL",
       "iso2": "be",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/450px-Flag_of_Belgium.png",
-      "emoji": "flag-be"
+      "emoji": "flag-be",
+      "emojiString": "🇧🇪"
     },
     {
       "id": 26,
@@ -350,7 +375,8 @@
       "fifaCode": "PAN",
       "iso2": "pa",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/450px-Flag_of_Panama.png",
-      "emoji": "flag-pa"
+      "emoji": "flag-pa",
+      "emojiString": "🇵🇦"
     },
     {
       "id": 27,
@@ -358,7 +384,8 @@
       "fifaCode": "TUN",
       "iso2": "tn",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.png",
-      "emoji": "flag-tn"
+      "emoji": "flag-tn",
+      "emojiString": "🇹🇳"
     },
     {
       "id": 28,
@@ -366,7 +393,8 @@
       "fifaCode": "ENG",
       "iso2": "gb-eng",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png",
-      "emoji": "flag-england"
+      "emoji": "flag-england",
+      "emojiString": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
     },
     {
       "id": 29,
@@ -374,7 +402,8 @@
       "fifaCode": "POL",
       "iso2": "pl",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.png",
-      "emoji": "flag-pl"
+      "emoji": "flag-pl",
+      "emojiString": "🇵🇱"
     },
     {
       "id": 30,
@@ -382,7 +411,8 @@
       "fifaCode": "SEN",
       "iso2": "sn",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
-      "emoji": "flag-sn"
+      "emoji": "flag-sn",
+      "emojiString": "🇸🇳"
     },
     {
       "id": 31,
@@ -390,7 +420,8 @@
       "fifaCode": "COL",
       "iso2": "co",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/450px-Flag_of_Colombia.png",
-      "emoji": "flag-co"
+      "emoji": "flag-co",
+      "emojiString": "🇨🇴"
     },
     {
       "id": 32,
@@ -398,7 +429,8 @@
       "fifaCode": "JPN",
       "iso2": "jp",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/900px-Flag_of_Japan.png",
-      "emoji": "flag-jp"
+      "emoji": "flag-jp",
+      "emojiString": "🇯🇵"
     }
   ],
   "groups": {
