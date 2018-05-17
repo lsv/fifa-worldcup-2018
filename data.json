@@ -141,6 +141,38 @@
       "country": "Spain",
       "iso2": "es",
       "lang": ["es"]
+    },
+    {
+      "id": 8,
+      "name": "Globo",
+      "icon": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
+    },
+    {
+      "id": 9,
+      "name": "SportTV",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/692px-SporTV_2017_logo.svg.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
+    },
+    {
+      "id": 10,
+      "name": "SportTV2",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/664px-SporTV_2_2017_logo.svg.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
+    },
+    {
+      "id": 11,
+      "name": "SportTV3",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/703px-SporTV_3_2017_logo.svg.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
     }
   ],
   "teams": [
