@@ -185,6 +185,14 @@
       "country": "Brazil",
       "iso2": "br",
       "lang": ["pt-br"]
+    },
+    {
+      "id": 12,
+      "name": "Sony Ten",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_TEN_logo.png",
+      "country": "India",
+      "iso2": "en",
+      "lang": ["en"]
     }
   ],
   "teams": [
