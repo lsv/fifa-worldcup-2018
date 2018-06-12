@@ -193,6 +193,22 @@
       "country": "India",
       "iso2": "en",
       "lang": ["en"]
+    },
+    {
+      "id": 13,
+      "name": "Fox",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg",
+      "country": "USA",
+      "iso2": "en",
+      "lang": ["en"]
+    },
+    {
+      "id": 14,
+      "name": "FS1",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/37/2015_Fox_Sports_1_logo.svg",
+      "country": "USA",
+      "iso2": "en",
+      "lang": ["en"]
     }
   ],
   "teams": [
@@ -500,7 +516,7 @@
           "away_result": null,
           "date": "2018-06-14T18:00:00+03:00",
           "stadium": 1,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 1
         },
@@ -513,7 +529,7 @@
           "away_result": null,
           "date": "2018-06-15T17:00:00+05:00",
           "stadium": 12,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -526,7 +542,7 @@
           "away_result": null,
           "date": "2018-06-19T21:00:00+03:00",
           "stadium": 3,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -539,7 +555,7 @@
           "away_result": null,
           "date": "2018-06-20T18:00:00+03:00",
           "stadium": 10,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -552,7 +568,7 @@
           "away_result": null,
           "date": "2018-06-25T18:00:00+04:00",
           "stadium": 7,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 3
         },
@@ -565,7 +581,7 @@
           "away_result": null,
           "date": "2018-06-25T17:00:00+03:00",
           "stadium": 8,
-          "channels": [5,6],
+          "channels": [5,6,14],
           "finished": false,
           "matchday": 3
         }
@@ -585,7 +601,7 @@
           "away_result": null,
           "date": "2018-06-15T21:00:00+03:00",
           "stadium": 11,
-          "channels": [3,7],
+          "channels": [3,7,13],
           "finished": false,
           "matchday": 1
         },
@@ -598,7 +614,7 @@
           "away_result": null,
           "date": "2018-06-15T18:00:00+03:00",
           "stadium": 3,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 1
         },
@@ -611,7 +627,7 @@
           "away_result": null,
           "date": "2018-06-20T15:00:00+03:00",
           "stadium": 1,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 2
         },
@@ -624,7 +640,7 @@
           "away_result": null,
           "date": "2018-06-20T21:00:00+03:00",
           "stadium": 5,
-          "channels": [4,7],
+          "channels": [4,7,13],
           "finished": false,
           "matchday": 2
         },
@@ -637,7 +653,7 @@
           "away_result": null,
           "date": "2018-06-25T21:00:00+03:00",
           "stadium": 9,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 3
         },
@@ -650,7 +666,7 @@
           "away_result": null,
           "date": "2018-06-25T20:00:00+02:00",
           "stadium": 4,
-          "channels": [3,7],
+          "channels": [3,7,14],
           "finished": false,
           "matchday": 3
         }
@@ -670,7 +686,7 @@
           "away_result": null,
           "date": "2018-06-16T13:00:00+03:00",
           "stadium": 5,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -683,7 +699,7 @@
           "away_result": null,
           "date": "2018-06-16T19:00:00+03:00",
           "stadium": 9,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -696,7 +712,7 @@
           "away_result": null,
           "date": "2018-06-21T20:00:00+05:00",
           "stadium": 12,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -709,7 +725,7 @@
           "away_result": null,
           "date": "2018-06-21T16:00:00+04:00",
           "stadium": 7,
-          "channels": [4,6],
+          "channels": [4,6,14],
           "finished": false,
           "matchday": 2
         },
@@ -722,7 +738,7 @@
           "away_result": null,
           "date": "2018-06-26T17:00:00+03:00",
           "stadium": 1,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 3
         },
@@ -735,7 +751,7 @@
           "away_result": null,
           "date": "2018-06-26T17:00:00+02:00",
           "stadium": 11,
-          "channels": [5,6],
+          "channels": [5,6,14],
           "finished": false,
           "matchday": 3
         }
@@ -755,7 +771,7 @@
           "away_result": null,
           "date": "2018-06-16T16:00:00+03:00",
           "stadium": 2,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 1
         },
@@ -768,7 +784,7 @@
           "away_result": null,
           "date": "2018-06-16T21:00:00+02:00",
           "stadium": 4,
-          "channels": [4,6],
+          "channels": [4,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -781,7 +797,7 @@
           "away_result": null,
           "date": "2018-06-21T21:00:00+03:00",
           "stadium": 6,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -794,7 +810,7 @@
           "away_result": null,
           "date": "2018-06-22T18:00:00+03:00",
           "stadium": 8,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -807,7 +823,7 @@
           "away_result": null,
           "date": "2018-06-26T21:00:00+03:00",
           "stadium": 3,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 3
         },
@@ -820,7 +836,7 @@
           "away_result": null,
           "date": "2018-06-26T21:00:00+03:00",
           "stadium": 10,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 3
         }
@@ -840,7 +856,7 @@
           "away_result": null,
           "date": "2018-06-17T21:00:00+03:00",
           "stadium": 10,
-          "channels": [4,6],
+          "channels": [4,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -853,7 +869,7 @@
           "away_result": null,
           "date": "2018-06-17T16:00:00+04:00",
           "stadium": 7,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 1
         },
@@ -866,7 +882,7 @@
           "away_result": null,
           "date": "2018-06-22T15:00:00+03:00",
           "stadium": 3,
-          "channels": [4,6],
+          "channels": [4,6,14],
           "finished": false,
           "matchday": 2
         },
@@ -879,7 +895,7 @@
           "away_result": null,
           "date": "2018-06-22T20:00:00+02:00",
           "stadium": 4,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -892,7 +908,7 @@
           "away_result": null,
           "date": "2018-06-27T21:00:00+03:00",
           "stadium": 2,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 3
         },
@@ -905,7 +921,7 @@
           "away_result": null,
           "date": "2018-06-27T21:00:00+03:00",
           "stadium": 6,
-          "channels": [5,6],
+          "channels": [5,6,14],
           "finished": false,
           "matchday": 3
         }
@@ -925,7 +941,7 @@
           "away_result": null,
           "date": "2018-06-17T18:00:00+03:00",
           "stadium": 1,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -938,7 +954,7 @@
           "away_result": null,
           "date": "2018-06-18T15:00:00+03:00",
           "stadium": 6,
-          "channels": [4,6],
+          "channels": [4,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -951,7 +967,7 @@
           "away_result": null,
           "date": "2018-06-23T21:00:00+03:00",
           "stadium": 11,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -964,7 +980,7 @@
           "away_result": null,
           "date": "2018-06-23T18:00:00+03:00",
           "stadium": 10,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -977,7 +993,7 @@
           "away_result": null,
           "date": "2018-06-27T17:00:00+03:00",
           "stadium": 5,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 3
         },
@@ -990,7 +1006,7 @@
           "away_result": null,
           "date": "2018-06-27T19:00:00+05:00",
           "stadium": 12,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 3
         }
@@ -1010,7 +1026,7 @@
           "away_result": null,
           "date": "2018-06-18T18:00:00+03:00",
           "stadium": 11,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -1023,7 +1039,7 @@
           "away_result": null,
           "date": "2018-06-18T21:00:00+03:00",
           "stadium": 8,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -1036,7 +1052,7 @@
           "away_result": null,
           "date": "2018-06-23T15:00:00+03:00",
           "stadium": 2,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -1049,7 +1065,7 @@
           "away_result": null,
           "date": "2018-06-24T15:00:00+03:00",
           "stadium": 6,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 2
         },
@@ -1062,7 +1078,7 @@
           "away_result": null,
           "date": "2018-06-28T20:00:00+02:00",
           "stadium": 4,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 3
         },
@@ -1075,7 +1091,7 @@
           "away_result": null,
           "date": "2018-06-28T21:00:00+03:00",
           "stadium": 9,
-          "channels": [5,6],
+          "channels": [5,6,14],
           "finished": false,
           "matchday": 3
         }
@@ -1095,7 +1111,7 @@
           "away_result": null,
           "date": "2018-06-19T18:00:00+03:00",
           "stadium": 2,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 1
         },
@@ -1108,7 +1124,7 @@
           "away_result": null,
           "date": "2018-06-19T15:00:00+03:00",
           "stadium": 9,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 1
         },
@@ -1121,7 +1137,7 @@
           "away_result": null,
           "date": "2018-06-24T20:00:00+05:00",
           "stadium": 5,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -1134,7 +1150,7 @@
           "away_result": null,
           "date": "2018-06-24T21:00:00+03:00",
           "stadium": 12,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 2
         },
@@ -1147,7 +1163,7 @@
           "away_result": null,
           "date": "2018-06-28T17:00:00+03:00",
           "stadium": 8,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 3
         },
@@ -1160,7 +1176,7 @@
           "away_result": null,
           "date": "2018-06-28T18:00:00+04:00",
           "stadium": 7,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 3
         }
@@ -1183,7 +1199,7 @@
           "winner": null,
           "date": "2018-06-30T17:00:00+03:00",
           "stadium": 11,
-          "channels": [4],
+          "channels": [4,13],
           "finished": false,
           "matchday": 4
         },
@@ -1199,7 +1215,7 @@
           "winner": null,
           "date": "2018-06-30T21:00:00+03:00",
           "stadium": 5,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 4
         },
@@ -1215,7 +1231,7 @@
           "winner": null,
           "date": "2018-07-01T17:00:00+03:00",
           "stadium": 1,
-          "channels": [3],
+          "channels": [3,13],
           "finished": false,
           "matchday": 4
         },
@@ -1231,7 +1247,7 @@
           "winner": null,
           "date": "2018-07-01T21:00:00+03:00",
           "stadium": 6,
-          "channels": [4,6],
+          "channels": [4,6,13],
           "finished": false,
           "matchday": 4
         },
@@ -1247,7 +1263,7 @@
           "winner": null,
           "date": "2018-07-02T18:00:00+04:00",
           "stadium": 7,
-          "channels": [3,6],
+          "channels": [3,6,14],
           "finished": false,
           "matchday": 4
         },
@@ -1263,7 +1279,7 @@
           "winner": null,
           "date": "2018-07-02T21:00:00+03:00",
           "stadium": 10,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 4
         },
@@ -1279,7 +1295,7 @@
           "winner": null,
           "date": "2018-07-03T17:00:00+03:00",
           "stadium": 3,
-          "channels": [4,6],
+          "channels": [4,6,14],
           "finished": false,
           "matchday": 4
         },
@@ -1295,7 +1311,7 @@
           "winner": null,
           "date": "2018-07-03T21:00:00+03:00",
           "stadium": 2,
-          "channels": [3,6],
+          "channels": [3,6,13],
           "finished": false,
           "matchday": 4
         }
@@ -1316,7 +1332,7 @@
           "winner": null,
           "date": "2018-07-06T17:00:00+03:00",
           "stadium": 6,
-          "channels": [3],
+          "channels": [3,14],
           "finished": false,
           "matchday": 5
         },
@@ -1332,7 +1348,7 @@
           "winner": null,
           "date": "2018-07-06T21:00:00+03:00",
           "stadium": 5,
-          "channels": [3],
+          "channels": [3,14],
           "finished": false,
           "matchday": 5
         },
@@ -1348,7 +1364,7 @@
           "winner": null,
           "date": "2018-07-07T21:00:00+03:00",
           "stadium": 11,
-          "channels": [4],
+          "channels": [4,13],
           "finished": false,
           "matchday": 5
         },
@@ -1364,7 +1380,7 @@
           "winner": null,
           "date": "2018-07-07T18:00:00+04:00",
           "stadium": 7,
-          "channels": [4],
+          "channels": [4,13],
           "finished": false,
           "matchday": 5
         }
@@ -1385,7 +1401,7 @@
           "winner": null,
           "date": "2018-07-10T21:00:00+03:00",
           "stadium": 3,
-          "channels": [4],
+          "channels": [4,13],
           "finished": false,
           "matchday": 6
         },
@@ -1401,7 +1417,7 @@
           "winner": null,
           "date": "2018-07-11T21:00:00+03:00",
           "stadium": 1,
-          "channels": [3],
+          "channels": [3,13],
           "finished": false,
           "matchday": 6
         }
@@ -1422,7 +1438,7 @@
           "winner": null,
           "date": "2018-07-14T17:00:00+03:00",
           "stadium": 3,
-          "channels": [4],
+          "channels": [4,13],
           "finished": false,
           "matchday": 7
         }
@@ -1443,7 +1459,7 @@
           "winner": null,
           "date": "2018-07-15T18:00:00+03:00",
           "stadium": 1,
-          "channels": [3, 4],
+          "channels": [3,4,13],
           "finished": false,
           "matchday": 7
         }
