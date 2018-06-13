@@ -237,6 +237,36 @@
             "lang": [
                 "en"
             ]
+        },
+        {
+            "id": 15,
+            "name": "ARD",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/68\/ARD_logo.svg",
+            "country": "Germany",
+            "iso2": "de",
+            "lang": [
+                "de"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "ZDF",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c1\/ZDF_logo.svg",
+            "country": "Germany",
+            "iso2": "de",
+            "lang": [
+                "de"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "ONE",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/1/16/One_TV_Logo.svg",
+            "country": "Germany",
+            "iso2": "de",
+            "lang": [
+                "de"
+            ]
         }
     ],
     "teams": [
