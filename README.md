@@ -66,10 +66,10 @@ When a match is completed it will look like this
 "away_result": 1,
 "home_penalty": null,
 "away_penalty": null,
-"winner": "away",
+"winner": <TEAM ID>,
 ```
 
-The `"winner"` field will have either `"away"` or `"home"`.
+The `"winner"` field will have either `<TEAM ID>`.
 
 If a team wins after overtime, the result will be the same as above.
 
@@ -80,7 +80,7 @@ If a knockout match goes to penalty the result will be
 "away_result": 1,
 "home_penalty": 5,
 "away_penalty": 4,
-"winner": "home",
+"winner": <TEAM ID>,
 ```
 
 ## Frontend
