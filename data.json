@@ -577,7 +577,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 1
@@ -594,7 +595,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 1
@@ -611,7 +613,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 2
@@ -628,7 +631,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -645,7 +649,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -662,7 +667,8 @@
                     "channels": [
                         5,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -686,7 +692,8 @@
                     "channels": [
                         3,
                         7,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 1
@@ -703,7 +710,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 1
@@ -720,7 +728,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -737,7 +746,8 @@
                     "channels": [
                         4,
                         7,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -754,7 +764,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -771,7 +782,8 @@
                     "channels": [
                         3,
                         7,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -795,7 +807,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -812,7 +825,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -829,7 +843,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 2
@@ -846,7 +861,8 @@
                     "channels": [
                         4,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 2
@@ -863,7 +879,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 3
@@ -880,7 +897,8 @@
                     "channels": [
                         5,
                         6,
-                        14
+                        14,
+                        17
                     ],
                     "finished": false,
                     "matchday": 3
@@ -904,7 +922,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -921,7 +940,8 @@
                     "channels": [
                         4,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -938,7 +958,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 2
@@ -972,7 +993,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 3
@@ -989,7 +1011,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1013,7 +1036,8 @@
                     "channels": [
                         4,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1030,7 +1054,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1047,7 +1072,8 @@
                     "channels": [
                         4,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1064,7 +1090,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1081,7 +1108,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1098,7 +1126,8 @@
                     "channels": [
                         5,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1122,7 +1151,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1139,7 +1169,8 @@
                     "channels": [
                         4,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1156,7 +1187,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1173,7 +1205,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1190,7 +1223,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1207,7 +1241,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1231,7 +1266,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1248,7 +1284,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1265,7 +1302,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1282,7 +1320,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1299,7 +1338,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1316,7 +1356,8 @@
                     "channels": [
                         5,
                         6,
-                        14
+                        14,
+                        17
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1340,7 +1381,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1357,7 +1399,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        16
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1374,7 +1417,8 @@
                     "channels": [
                         4,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1391,7 +1435,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1408,7 +1453,8 @@
                     "channels": [
                         3,
                         6,
-                        14
+                        14,
+                        15
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1425,7 +1471,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        15
                     ],
                     "finished": false,
                     "matchday": 3
