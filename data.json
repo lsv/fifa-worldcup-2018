@@ -257,6 +257,36 @@
             "lang": [
                     "id"
             ]
+        },
+        {
+            "id": 17,
+            "name": "ARD",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/68\/ARD_logo.svg",
+            "country": "Germany",
+            "iso2": "de",
+            "lang": [
+                "de"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "ZDF",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c1\/ZDF_logo.svg",
+            "country": "Germany",
+            "iso2": "de",
+            "lang": [
+                "de"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "ONE",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/16\/One_TV_Logo.svg",
+            "country": "Germany",
+            "iso2": "de",
+            "lang": [
+                "de"
+            ]
         }
     ],
     "teams": [
@@ -568,7 +598,7 @@
                         4,
                         6,
                         13,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 1
@@ -586,7 +616,7 @@
                         3,
                         6,
                         14,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 1
@@ -604,6 +634,7 @@
                         3,
                         6,
                         13,
+                        17,
                         15
                     ],
                     "finished": false,
@@ -621,7 +652,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        17
                     ],
                     "finished": false,
                     "matchday": 2
@@ -639,6 +671,7 @@
                         4,
                         6,
                         13,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -657,6 +690,7 @@
                         5,
                         6,
                         14,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -682,7 +716,8 @@
                         3,
                         7,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -700,7 +735,7 @@
                         4,
                         6,
                         13,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 1
@@ -718,7 +753,8 @@
                         3,
                         6,
                         14,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -736,7 +772,8 @@
                         4,
                         7,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -754,7 +791,7 @@
                         3,
                         6,
                         13,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 3
@@ -772,7 +809,7 @@
                         3,
                         7,
                         14,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 3
@@ -797,7 +834,8 @@
                         3,
                         6,
                         14,
-                        15
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -815,7 +853,8 @@
                         3,
                         6,
                         14,
-                        15
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -833,7 +872,8 @@
                         4,
                         6,
                         13,
-                        15
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -851,7 +891,8 @@
                         4,
                         6,
                         14,
-                        15
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -869,7 +910,8 @@
                         4,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 3
@@ -887,7 +929,8 @@
                         5,
                         6,
                         14,
-                        16
+                        16,
+                        19
                     ],
                     "finished": false,
                     "matchday": 3
@@ -912,7 +955,7 @@
                         4,
                         6,
                         13,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -930,6 +973,7 @@
                         4,
                         6,
                         14,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -948,7 +992,7 @@
                         3,
                         6,
                         13,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -966,6 +1010,7 @@
                         3,
                         6,
                         13,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -984,7 +1029,8 @@
                         3,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1002,7 +1048,7 @@
                         3,
                         6,
                         14,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1027,7 +1073,7 @@
                         4,
                         6,
                         14,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1045,7 +1091,7 @@
                         4,
                         6,
                         13,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1063,6 +1109,7 @@
                         4,
                         6,
                         14,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -1081,6 +1128,7 @@
                         3,
                         6,
                         13,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -1099,6 +1147,7 @@
                         4,
                         6,
                         13,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -1117,6 +1166,7 @@
                         5,
                         6,
                         14,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -1142,7 +1192,7 @@
                         3,
                         6,
                         14,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1160,7 +1210,7 @@
                         4,
                         6,
                         14,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1178,7 +1228,8 @@
                         4,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1196,7 +1247,8 @@
                         4,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1214,6 +1266,7 @@
                         3,
                         6,
                         14,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -1232,7 +1285,7 @@
                         3,
                         6,
                         13,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1257,7 +1310,7 @@
                         3,
                         6,
                         14,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1275,7 +1328,7 @@
                         3,
                         6,
                         14,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1293,7 +1346,8 @@
                         3,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1311,7 +1365,8 @@
                         3,
                         6,
                         14,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1329,7 +1384,8 @@
                         4,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1347,6 +1403,7 @@
                         5,
                         6,
                         14,
+                        19,
                         16
                     ],
                     "finished": false,
@@ -1372,6 +1429,7 @@
                         4,
                         6,
                         13,
+                        18,
                         15
                     ],
                     "finished": false,
@@ -1390,7 +1448,7 @@
                         3,
                         6,
                         14,
-                        16
+                        18
                     ],
                     "finished": false,
                     "matchday": 1
@@ -1408,7 +1466,8 @@
                         4,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1426,7 +1485,8 @@
                         3,
                         6,
                         13,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 2
@@ -1444,7 +1504,8 @@
                         3,
                         6,
                         14,
-                        16
+                        15,
+                        18
                     ],
                     "finished": false,
                     "matchday": 3
@@ -1462,7 +1523,7 @@
                         3,
                         6,
                         13,
-                        15
+                        17
                     ],
                     "finished": false,
                     "matchday": 3
