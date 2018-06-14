@@ -239,23 +239,23 @@
             ]
         },
         {
-            "id": 15,
+            "id":15,
             "name": "TransTV",
             "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/6\/62\/Trans_TV_2013.svg",
             "country": "Indonesia",
             "iso2": "id",
             "lang": [
-                "id"
+                    "id"
             ]
         },
         {
-            "id": 16,
+            "id":16,
             "name": "Trans7",
             "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Trans_7_2013_Iklan.svg",
             "country": "Indonesia",
             "iso2": "id",
             "lang": [
-                "id"
+                    "id"
             ]
         },
         {
