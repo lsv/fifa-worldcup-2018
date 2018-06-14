@@ -976,7 +976,8 @@
                     "channels": [
                         3,
                         6,
-                        13
+                        13,
+                        16
                     ],
                     "finished": false,
                     "matchday": 2
