@@ -1460,7 +1460,7 @@
                     "away_team": 31,
                     "home_result": null,
                     "away_result": null,
-                    "date": "2018-06-24T20:00:00+05:00",
+                    "date": "2018-06-24T20:00:00+02:00",
                     "stadium": 5,
                     "channels": [
                         4,
@@ -1479,7 +1479,7 @@
                     "away_team": 30,
                     "home_result": null,
                     "away_result": null,
-                    "date": "2018-06-24T21:00:00+03:00",
+                    "date": "2018-06-24T18:00:00+03:00",
                     "stadium": 12,
                     "channels": [
                         3,
