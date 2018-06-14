@@ -239,23 +239,23 @@
             ]
         },
         {
-            "id":15,
+            "id": 15,
             "name": "TransTV",
             "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/6\/62\/Trans_TV_2013.svg",
             "country": "Indonesia",
             "iso2": "id",
             "lang": [
-                    "id"
+                "id"
             ]
         },
         {
-            "id":16,
+            "id": 16,
             "name": "Trans7",
             "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Trans_7_2013_Iklan.svg",
             "country": "Indonesia",
             "iso2": "id",
             "lang": [
-                    "id"
+                "id"
             ]
         },
         {
@@ -590,7 +590,7 @@
                     "type": "group",
                     "home_team": 1,
                     "away_team": 2,
-                    "home_result": 2,
+                    "home_result": 5,
                     "away_result": 0,
                     "date": "2018-06-14T18:00:00+03:00",
                     "stadium": 1,
@@ -600,7 +600,7 @@
                         13,
                         17
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 1
                 },
                 {
