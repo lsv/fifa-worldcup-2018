@@ -239,23 +239,23 @@
             ]
         },
         {
-            "id":15,
+            "id": 15,
             "name": "TransTV",
             "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/id\/6\/62\/Trans_TV_2013.svg",
             "country": "Indonesia",
             "iso2": "id",
             "lang": [
-                    "id"
+                "id"
             ]
         },
         {
-            "id":16,
+            "id": 16,
             "name": "Trans7",
             "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Trans_7_2013_Iklan.svg",
             "country": "Indonesia",
             "iso2": "id",
             "lang": [
-                    "id"
+                "id"
             ]
         },
         {
@@ -289,34 +289,34 @@
             ]
         },
         {
-          "id": 20,
-          "name": "TVP 1",
-          "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4a\/TVP1_logo.svg\/2000px-TVP1_logo.svg.png",
-          "country": "Poland",
-          "iso2": "pl",
-          "lang": [
-              "pl"
-          ]
+            "id": 20,
+            "name": "TVP 1",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4a\/TVP1_logo.svg\/2000px-TVP1_logo.svg.png",
+            "country": "Poland",
+            "iso2": "pl",
+            "lang": [
+                "pl"
+            ]
         },
         {
-          "id": 21,
-          "name": "TVP 2",
-          "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/27\/TVP2_logo.svg\/2000px-TVP2_logo.svg.png",
-          "country": "Poland",
-          "iso2": "pl",
-          "lang": [
-              "pl"
-          ]
+            "id": 21,
+            "name": "TVP 2",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/27\/TVP2_logo.svg\/2000px-TVP2_logo.svg.png",
+            "country": "Poland",
+            "iso2": "pl",
+            "lang": [
+                "pl"
+            ]
         },
         {
-          "id": 22,
-          "name": "TVP SPORT",
-          "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/76\/NewTVP_SPORT.png",
-          "country": "Poland",
-          "iso2": "pl",
-          "lang": [
-              "pl"
-          ]
+            "id": 22,
+            "name": "TVP SPORT",
+            "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/76\/NewTVP_SPORT.png",
+            "country": "Poland",
+            "iso2": "pl",
+            "lang": [
+                "pl"
+            ]
         }
     ],
     "teams": [
@@ -1046,7 +1046,7 @@
                         20,
                         22
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 1
                 },
                 {
