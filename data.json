@@ -837,7 +837,7 @@
                         15,
                         18
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 1
                 },
                 {
@@ -856,7 +856,7 @@
                         15,
                         18
                     ],
-                    "finished": true,
+                    "finished": false,
                     "matchday": 1
                 },
                 {
