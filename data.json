@@ -661,7 +661,7 @@
                     "home_team": 1,
                     "away_team": 3,
                     "home_result": 3,
-                    "away_result": 0,
+                    "away_result": 1,
                     "date": "2018-06-19T21:00:00+03:00",
                     "stadium": 3,
                     "channels": [
