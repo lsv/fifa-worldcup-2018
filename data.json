@@ -660,7 +660,7 @@
                     "type": "group",
                     "home_team": 1,
                     "away_team": 3,
-                    "home_result": 0,
+                    "home_result": 1,
                     "away_result": 0,
                     "date": "2018-06-19T21:00:00+03:00",
                     "stadium": 3,
