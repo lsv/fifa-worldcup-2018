@@ -791,7 +791,7 @@
                     "type": "group",
                     "home_team": 5,
                     "away_team": 7,
-                    "home_result": 0,
+                    "home_result": 1,
                     "away_result": 0,
                     "date": "2018-06-20T15:00:00+03:00",
                     "stadium": 1,
