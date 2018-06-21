@@ -943,7 +943,7 @@
                     "type": "group",
                     "home_team": 12,
                     "away_team": 10,
-                    "home_result": 0,
+                    "home_result": 1,
                     "away_result": 0,
                     "date": "2018-06-21T16:00:00+04:00",
                     "stadium": 7,
