@@ -1597,7 +1597,7 @@
                     "type": "group",
                     "home_team": 32,
                     "away_team": 30,
-                    "home_result": 0,
+                    "home_result": 1,
                     "away_result": 1,
                     "date": "2018-06-24T18:00:00+03:00",
                     "stadium": 12,
