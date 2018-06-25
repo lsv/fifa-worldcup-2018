@@ -742,8 +742,8 @@
         },
         "b": {
             "name": "Group B",
-            "winner": 5,
-            "runnerup": 6,
+            "winner": 6,
+            "runnerup": 5,
             "matches": [
                 {
                     "name": 3,
@@ -1665,7 +1665,7 @@
                     "name": 49,
                     "type": "qualified",
                     "home_team": 4,
-                    "away_team": 6,
+                    "away_team": 5,
                     "home_result": null,
                     "away_result": null,
                     "home_penalty": null,
@@ -1705,7 +1705,7 @@
                 {
                     "name": 51,
                     "type": "qualified",
-                    "home_team": 5,
+                    "home_team": 6,
                     "away_team": 1,
                     "home_result": null,
                     "away_result": null,
