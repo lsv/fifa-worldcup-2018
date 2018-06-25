@@ -833,8 +833,8 @@
                     "type": "group",
                     "home_team": 8,
                     "away_team": 5,
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 0,
+                    "away_result": 0,
                     "date": "2018-06-25T21:00:00+03:00",
                     "stadium": 9,
                     "channels": [
