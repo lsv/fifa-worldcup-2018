@@ -612,8 +612,8 @@
     "groups": {
         "a": {
             "name": "Group A",
-            "winner": null,
-            "runnerup": null,
+            "winner": 4,
+            "runnerup": 1,
             "matches": [
                 {
                     "name": 1,
