@@ -872,8 +872,8 @@
         },
         "c": {
             "name": "Group C",
-            "winner": null,
-            "runnerup": null,
+            "winner": 9,
+            "runnerup": 12,
             "matches": [
                 {
                     "name": 5,
