@@ -1005,8 +1005,8 @@
         },
         "d": {
             "name": "Group D",
-            "winner": null,
-            "runnerup": null,
+            "winner": 15,
+            "runnerup": 13,
             "matches": [
                 {
                     "name": 7,
