@@ -1726,7 +1726,7 @@
                     "name": 52,
                     "type": "qualified",
                     "home_team": "winner_d",
-                    "away_team": "runner_c",
+                    "away_team": 12,
                     "home_result": null,
                     "away_result": null,
                     "home_penalty": null,
