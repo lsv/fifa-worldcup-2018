@@ -1246,8 +1246,8 @@
                     "type": "group",
                     "home_team": 18,
                     "away_team": 19,
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 0,
+                    "away_result": 0,
                     "date": "2018-06-27T21:00:00+03:00",
                     "stadium": 6,
                     "channels": [
