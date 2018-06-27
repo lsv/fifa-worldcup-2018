@@ -1135,8 +1135,8 @@
         },
         "e": {
             "name": "Group E",
-            "winner": null,
-            "runnerup": null,
+            "winner": 17,
+            "runnerup": 18,
             "matches": [
                 {
                     "name": 9,
