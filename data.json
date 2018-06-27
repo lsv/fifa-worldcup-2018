@@ -1266,8 +1266,8 @@
         },
         "f": {
             "name": "Group F",
-            "winner": null,
-            "runnerup": null,
+            "winner": 23,
+            "runnerup": 22,
             "matches": [
                 {
                     "name": 11,
