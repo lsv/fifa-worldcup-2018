@@ -1767,7 +1767,7 @@
                 {
                     "name": 54,
                     "type": "qualified",
-                    "home_team": "winner_g",
+                    "home_team": 25,
                     "away_team": 32,
                     "home_result": null,
                     "away_result": null,
