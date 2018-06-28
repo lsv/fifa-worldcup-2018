@@ -1527,8 +1527,8 @@
         },
         "h": {
             "name": "Group H",
-            "winner": null,
-            "runnerup": null,
+            "winner": 31,
+            "runnerup": 32,
             "matches": [
                 {
                     "name": 15,
