@@ -1810,7 +1810,7 @@
                     "name": 56,
                     "type": "qualified",
                     "home_team": 31,
-                    "away_team": "runner_g",
+                    "away_team": 28,
                     "home_result": null,
                     "away_result": null,
                     "home_penalty": null,
