@@ -1396,8 +1396,8 @@
         },
         "g": {
             "name": "Group G",
-            "winner": null,
-            "runnerup": null,
+            "winner": 25,
+            "runnerup": 28,
             "matches": [
                 {
                     "name": 13,
