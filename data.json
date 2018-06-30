@@ -1690,7 +1690,7 @@
                     "away_result": 3,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 9,
                     "date": "2018-06-30T17:00:00+03:00",
                     "stadium": 5,
                     "channels": [
