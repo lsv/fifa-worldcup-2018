@@ -1708,7 +1708,7 @@
                     "home_team": 6,
                     "away_team": 1,
                     "home_result": 1,
-                    "away_result": 0,
+                    "away_result": 1,
                     "home_penalty": null,
                     "away_penalty": null,
                     "winner": null,
