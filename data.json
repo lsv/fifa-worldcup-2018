@@ -36,8 +36,7 @@
             "id": 5,
             "name": "Kazan Arena",
             "city": "Kazan",
-            "lat": 55.820983,104 lsv/fifa-worldcup-2018  
-
+            "lat": 55.820983,
             "lng": 49.160966,
             "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3a\/Kazan_Arena_08-2016.jpg"
         },
@@ -113,8 +112,7 @@
             "id": 2,
             "name": "TV2",
             "icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/85\/Danish_TV_2_logo.png",
-            "country": "Denmark",104 lsv/fifa-worldcup-2018  
-
+            "country": "Denmark",
             "iso2": "dk",
             "lang": [
                 "da"
