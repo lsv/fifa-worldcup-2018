@@ -1729,9 +1729,9 @@
                     "away_team": 12,
                     "home_result": 1,
                     "away_result": 1,
-                    "home_penalty": null,
-                    "away_penalty": null,
-                    "winner": null,
+                    "home_penalty": 3,
+                    "away_penalty": 2,
+                    "winner": 15,
                     "date": "2018-07-01T21:00:00+03:00",
                     "stadium": 6,
                     "channels": [
@@ -1740,7 +1740,7 @@
                         13,
                         15
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 4
                 },
                 {
