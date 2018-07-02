@@ -1752,7 +1752,7 @@
                     "away_result": 0,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 17,
                     "date": "2018-07-02T18:00:00+04:00",
                     "stadium": 7,
                     "channels": [
