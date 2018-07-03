@@ -1811,7 +1811,7 @@
                     "type": "qualified",
                     "home_team": 31,
                     "away_team": 28,
-                    "home_result": 0,
+                    "home_result": 1,
                     "away_result": 1,
                     "home_penalty": null,
                     "away_penalty": null,
