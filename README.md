@@ -2,9 +2,25 @@
 
 [![Build Status](https://travis-ci.org/lsv/fifa-worldcup-2018.svg?branch=master)](https://travis-ci.org/lsv/fifa-worldcup-2018)
 
-__The data file will be updated within a hour after a match is over__
+## Thank you all!
 
-__Im investigating if I can find a source for doing this automatically and also provice live score__
+Congrats France, well deserved!
+
+Thank you for the support, I got really amazed when this little json file got 100 stars, and now its 324 stars!
+
+So what have I actually learned,
+
+First of all, be prepared on the json structure, with a better documentation, actually I never thought it would become so popular, so thats why I wasnt prepared enough.
+
+I just made this json data for my little own worldcup overview, and then I added github topic tags, and then it just exploded with stars. And those github topics is actually the only "marketing" I have made of this, no topics on reddit or any other place.
+
+Anyways, another thing I should have prepared to, is to use a lot "faster" and more relaible API to get the live scores, behind the scene, I have changed between 4 APIs, and I have made a LOT of manual labor also, and when I wasnt at home or saw a match with friends, thats where all you contributors where amazing!
+
+Thank you [all](https://github.com/lsv/fifa-worldcup-2018/graphs/contributors)
+
+This will properly be the last commit of this repo, I will keep it up for future reference, and maybe we will see each other again in 2 years when Europe Championship will be held in _Denmark_ :D
+
+Thanks again for the support!
 
 ## Usage
 
