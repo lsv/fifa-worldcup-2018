@@ -1996,7 +1996,7 @@
                     "away_result": 2,
                     "home_penalty": null,
                     "away_penalty": null,
-                    "winner": null,
+                    "winner": 9,
                     "date": "2018-07-15T18:00:00+03:00",
                     "stadium": 1,
                     "channels": [
