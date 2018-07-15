@@ -1992,7 +1992,7 @@
                     "type": "winner",
                     "home_team": 9,
                     "away_team": 15,
-                    "home_result": 0,
+                    "home_result": 1,
                     "away_result": 0,
                     "home_penalty": null,
                     "away_penalty": null,
